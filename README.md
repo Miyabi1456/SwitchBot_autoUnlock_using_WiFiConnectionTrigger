@@ -1,3 +1,5 @@
 # SwitchBot_autoUnlock_using_WiFiConnectionTrigger
 
 スマートフォンが自宅WiFiに接続されたことをトリガーとして、SwitchBotロックを帰宅時に自動で解錠するライブラリです。
+詳細はQiitaに書きました。
+[Qiita: SwitchBotロックを帰宅時に自動で解錠する　スマホのWiFi接続をトリガにする方法](https://qiita.com/Miyabi1456/items/5851d79f071385bcb54a)
