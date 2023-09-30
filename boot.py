@@ -20,6 +20,7 @@ def main():
         #帰宅/外出状態の更新
         if connected:
             in_area = True
+            time.sleep(60.0) #家の中にいるときにそれほど高頻度にチェックする必要はない
         else:
             in_area = False
         
